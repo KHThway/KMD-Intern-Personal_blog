@@ -1,0 +1,25 @@
+* {
+    font-family: "Reddit Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
+
+:root {
+    --bgfirst-color: #20c997;
+    --bgsecond-color: #dc3545;
+    --bgthrid-color: #0dcaf0;
+    --bgfourth-color: #fd7e14;
+    --bgfifth-color: #e85951;
+}
+
+#blogCards {
+    height: 300px;
+}
+
+#heading-line {
+    width: 96%;
+    height: 2px;
+    background-color: black;
+    margin: 30px auto;
+}
